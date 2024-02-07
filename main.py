@@ -174,7 +174,7 @@ logoImage = PhotoImage(file='c_logo.png')
 logoLabel = Label(root, image=logoImage, bg='royalblue')
 logoLabel.grid(row=0, column=0)
 
-entryField = Entry(root, font=('arial', 20, 'bold'), bg='royalbue', fg='white', bd=10, relief=SUNKEN, width=30)
+entryField = Entry(root, font=('arial', 20, 'bold'), bg='royalblue', fg='white', bd=10, relief=SUNKEN, width=30)
 entryField.grid(row=0, column=0, columnspan=8)
 
 micImage = PhotoImage(file='microphone.png')
