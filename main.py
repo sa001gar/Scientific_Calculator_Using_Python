@@ -167,18 +167,18 @@ def audio():
 
 root = Tk()
 root.title('Smart Calculator - Made by SAGAR')
-root.config(bg='dodgerblue3')
+root.config(bg='royalblue')
 root.geometry('680x486+100+100')
 
 logoImage = PhotoImage(file='c_logo.png')
-logoLabel = Label(root, image=logoImage, bg='dodgerblue3')
+logoLabel = Label(root, image=logoImage, bg='royalblue')
 logoLabel.grid(row=0, column=0)
 
-entryField = Entry(root, font=('arial', 20, 'bold'), bg='dodgerblue3', fg='white', bd=10, relief=SUNKEN, width=30)
+entryField = Entry(root, font=('arial', 20, 'bold'), bg='royalbue', fg='white', bd=10, relief=SUNKEN, width=30)
 entryField.grid(row=0, column=0, columnspan=8)
 
 micImage = PhotoImage(file='microphone.png')
-micButton = Button(root, image=micImage, bd=0, bg='dodgerblue3', activebackground='dodgerblue3'
+micButton = Button(root, image=micImage, bd=0, bg='royalblue', activebackground='seagreen'
                    ,command=audio)
 micButton.grid(row=0, column=7)
 
@@ -191,7 +191,7 @@ rowvalue = 1
 columnvalue = 0
 for i in button_text_list:
 
-    button = Button(root, width=5, height=2, bd=2, relief=SUNKEN, text=i, bg='dodgerblue3', fg='white',
+    button = Button(root, width=5, height=2, bd=2, relief=SUNKEN, text=i, bg='dodgerblue3', fg='#eee',
                     font=('arial', 18, 'bold'), activebackground='dodgerblue3', command=lambda button=i: click(button))
     button.grid(row=rowvalue, column=columnvalue, pady=1)
     columnvalue += 1
