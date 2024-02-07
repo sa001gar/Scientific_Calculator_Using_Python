@@ -1,9 +1,8 @@
-
+# SCIENTIFIC GUI CALCULATOR
 from tkinter import *
 import math
 from pygame import mixer
 import speech_recognition
-
 mixer.init()
 
 
@@ -171,7 +170,7 @@ root.title('Smart Calculator - Made by SAGAR')
 root.config(bg='dodgerblue3')
 root.geometry('680x486+100+100')
 
-logoImage = PhotoImage(file='logo.png')
+logoImage = PhotoImage(file='c_logo.png')
 logoLabel = Label(root, image=logoImage, bg='dodgerblue3')
 logoLabel.grid(row=0, column=0)
 
