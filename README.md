@@ -19,9 +19,10 @@ To deploy the Scientific Calculator Using Python on your system, follow these st
    ```bash
    git clone https://github.com/sa001gar/Scientific-Calculator-Using-Python.git
 2. **Install Dependencies:**
+   ```bash
    pip install -r requirements.txt
 3. **Run the Application:**
-   python main.py
+   ```bashpython main.py
 
 **Contributions**
 Contributions to enhance and expand the functionality of the Scientific Calculator Using Python are welcome. If you encounter issues or have suggestions for improvement, please consider opening an issue or submitting a pull request.
