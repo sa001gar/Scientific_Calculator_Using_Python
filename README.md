@@ -1,12 +1,36 @@
-Here I make a GUI Based Scientific calculator using Python.
- With the help of Python Module Library : tkinter,pyaudio,pygame
-  
-  These Module should be installed on your system to run the program.
+# Scientific Calculator Using Python
 
-  It also supports voice recognition as Input.
+## Overview
 
- To run it on your computer : Follow the steps described below
+Welcome to the "Scientific Calculator Using Python," an advanced scientific calculator designed with a graphical user interface. This project leverages key Python modules such as `tkinter`, `pyaudio`, and `pygame` to provide a robust and feature-rich calculator experience.
 
-1. git clone https://github.com/sa001gar/Sagar-Calculator.git
-2. pip install -r requirments.txt
-3. python main.py
+## Key Features
+
+- **Graphical User Interface:** Intuitive and user-friendly interface for seamless interaction.
+- **Scientific Functions:** Comprehensive scientific calculator functionalities for advanced calculations.
+- **Voice Recognition:** Innovative input method supporting voice recognition for enhanced user convenience.
+
+## Installation Guide
+
+To deploy the Scientific Calculator Using Python on your system, follow these steps:
+
+1. **Clone the Repository:**
+
+   ```bash
+   git clone https://github.com/sa001gar/Scientific-Calculator-Using-Python.git
+2. **Install Dependencies:**
+   pip install -r requirements.txt
+3. **Run the Application:**
+   python main.py
+
+**Contributions**
+Contributions to enhance and expand the functionality of the Scientific Calculator Using Python are welcome. If you encounter issues or have suggestions for improvement, please consider opening an issue or submitting a pull request.
+
+**Feedback and Support**
+For any inquiries or support related to the Scientific Calculator Using Python, feel free to contact the project owner.
+
+Thank you for choosing the Scientific Calculator Using Python for your mathematical needs. Enjoy a seamless and advanced calculator experience!
+
+**Happy Coding! 🧮🔍✨**
+
+   
