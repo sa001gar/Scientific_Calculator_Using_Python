@@ -25,14 +25,14 @@ To deploy the Scientific Calculator Using Python on your system, follow these st
    ```bash
    python main.py
 
-**Contributions**
+## Contributions
 Contributions to enhance and expand the functionality of the Scientific Calculator Using Python are welcome. If you encounter issues or have suggestions for improvement, please consider opening an issue or submitting a pull request.
 
-**Feedback and Support**
+## Feedback and Support
 For any inquiries or support related to the Scientific Calculator Using Python, feel free to contact the project owner.
 
 Thank you for choosing the Scientific Calculator Using Python for your mathematical needs. Enjoy a seamless and advanced calculator experience!
 
-**Happy Coding! 🧮🔍✨**
+## Happy Coding! 🧮🔍✨
 
    
