@@ -22,7 +22,8 @@ To deploy the Scientific Calculator Using Python on your system, follow these st
    ```bash
    pip install -r requirements.txt
 3. **Run the Application:**
-   ```bashpython main.py
+   ```bash
+   python main.py
 
 **Contributions**
 Contributions to enhance and expand the functionality of the Scientific Calculator Using Python are welcome. If you encounter issues or have suggestions for improvement, please consider opening an issue or submitting a pull request.
